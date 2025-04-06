@@ -57,4 +57,10 @@ body {
     color: #2c7be5;
     text-decoration: none;
   }
+  button:hover {
+    background-color: #007bff;
+    color: white;
+    transform: scale(1.05);
+    transition: 0.3s ease;
+  }
   
